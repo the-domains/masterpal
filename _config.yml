@@ -1,0 +1,28 @@
+name: MasterPal
+favicon: null
+layout_spectrum: 0.7660501534119248
+typography_spectrum: 0.9015507090371102
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.24208888737484813
+  lightness: 0.7917985427193344
+  saturation: 0.5160317099653184
+  rhythmicContrast: 0.4858129061758518
+purpose: []
